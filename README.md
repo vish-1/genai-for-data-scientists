@@ -1,1 +1,1 @@
-# genai-for-data-scientists
+# gen-ai-data-scientists
